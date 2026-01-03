@@ -19,7 +19,7 @@ My work spans:
 OV5640 → DDR3 → Triple Buffering → HDMI + USB 2.0.  
 Designed with clean Verilog, timing-closure focus, and Python tools.
 
-### ▸ Drone_UAV_YOLO *(private)*  
+### ▸ Drone_UAV_YOLO
 YOLO‑based detector for UAV tracking and autonomous robotics tasks.  
 Includes training pipeline, dataset preparation, and optimization.
 
