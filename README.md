@@ -25,7 +25,7 @@ Includes training pipeline, dataset preparation, and optimization.
 
 ### ▸ Drone_Missions_PySimVerse *(private)*  
 Mission‑planning algorithms for UAV navigation inside PySimVerse.  
-Focused on autonomous behavior, path planning, and simulation realism.
+Focused on autonomous behavior, path planning, and simulation realism.  
 Leverage Bayesian Mapping for search and rescue missions.
 
 ### ▸ BayesOpt_smart  
@@ -37,15 +37,15 @@ Modular, fast, and analytics-ready.
 
 ### ▸ ViolaJones_CUSTOM  
 From‑scratch implementation of the classical Viola–Jones detector.  
-Includes Haar features, integral images, and multi-stage cascade.
+Includes Haar features, integral images, and multi-stage cascade.  
 Trained with personal, optimized AdaBoost implementation.
 
 ### ▸ AdaBoost_smart
-Optimized AdaBoost that leverages a mathematical trick.
+Optimized AdaBoost that leverages a mathematical trick.  
 Very fast.
 
 ### ▸ Disease_AdaBoost
-Medical application of the optimized AdaBoost indigenous implementation.
+Medical application of the optimized AdaBoost indigenous implementation.  
 Competitive accuracy, with fast training time and features engineering.
 
 ### ▸ RISCV_CPU_TL_verilog  
@@ -74,7 +74,7 @@ Experimenting with Makerchip and TL-Verilog abstractions.
 ---
 
 ## Contact
-**LinkedIn:** https://www.linkedin.com/in/alessandro-balzan-b024a9250
+**LinkedIn:** https://www.linkedin.com/in/alessandro-balzan-b024a9250  
 **Email:** balzanalessandro2001@gmail.com
 
 Thanks for visiting my profile.
