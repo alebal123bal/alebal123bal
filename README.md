@@ -1,53 +1,70 @@
-# Hi, I'm Alessandro
+# Alessandro Balzan
+### FPGA Engineer | Hardware Acceleration | Edge AI
 
-I'm an engineer working across **FPGA design**, **embedded computer vision**, and **machine learning acceleration**.  
-I build end‑to‑end systems that connect sensors, hardware pipelines, and software tooling.
+**I bridge the gap between PyTorch and Verilog/VHDL.**
 
-My work spans:
-- FPGA-based computer vision (camera → DDR → HDMI/USB pipelines)
-- Embedded ML (YOLO, quantized inference, on‑device CV)
-- Real-time robotics tooling and simulation
-- High-performance Python systems (optimization, backtesting)
-- Hardware architecture (TL-Verilog, RISC-V educational cores)
+Most engineers live in the . I live in the intersection of cloud and logic gates. I specialize in taking heavy computational problems (Computer Vision, AI, Optimization) and crushing them into constrained hardware with deterministic latency.
+
+*   **Focus:** High-throughput data paths, RTL design, and hardware-aware AI.
+*   **Mindset:** If it takes more than a microsecond, it's too slow.
 
 ---
 
-## What I Work On
-- FPGA architectures for real-time perception  
-- Embedded ML deployment on constrained systems  
-- Vision pipelines and UAV autonomy  
-- High-performance Python tooling  
-- Hardware design clarity, testing, and structure
+## ⚡ Featured Projects
+
+### 🛸 [Luckfox UAV Detection](https://github.com/alebal123bal/luckfox_UAV_detection)
+**The Viral One.** A zero-copy, hardware-accelerated pipeline on the Luckfox Pico.
+*   **Performance:** Achieved **20 FPS** on a tiny, $25 embedded Linux board.
+*   **Tech:** C++, RGA Hardware Acceleration, MAVLink.
+*   **Impact:** 19x speedup over OpenCV. Went viral on LinkedIn.
+
+### 📹 [Gowin FPGA CV Pipeline](https://github.com/alebal123bal/Gowin_FPGA_CV)
+**The CEO's Favorite.** Real-time video processing on the Gowin Tang Primer 20K.
+*   **Tech:** Verilog, HDMI, USB 2.0 High Speed.
+*   **Impact:** Publicly praised by the **CEO of Gowin Semiconductor** for technical execution.
+
+### 🧠 [BayesOpt Smart](https://github.com/alebal123bal/BayesOpt_smart) & [AdaBoost Smart](https://github.com/alebal123bal/AdaBoost_smart)
+**The Math.** Custom implementations of ML algorithms from scratch.
+*   **Tech:** Python, Numba (JIT compilation).
+*   **Why:** I optimized the kernels for raw speed and lightweight usage.
 
 ---
 
-## Interests
-- FPGA design for high-throughput pipelines  
-- Hardware acceleration (vision + ML)  
-- Trading systems & HFT infrastructure  
-- Drones & autonomous systems  
-- Low-latency, deterministic compute
-- Optimization algorithms
+## 🛠 The Stack
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Hardware (RTL)** | VHDL, Verilog, SystemVerilog, Vivado, Gowin IDE |
+| **Software & AI** | Python (PyTorch, Numba), C/C++, Bash, Linux |
+| **Interfaces** | AXI4, Avalon Stream, UART, I2C, SPI |
+| **Optimization** | Bayesian Optimization (BOTorch), Multi-objective Search |
 
 ---
 
-## Contact
-**LinkedIn:** https://www.linkedin.com/in/alessandro-balzan-b024a9250  
-**Email:** balzanalessandro2001@gmail.com
+## 💼 Experience Highlights
 
-Thanks for visiting my profile.
+**Leonardo S.p.A** *(via Overtech Consulting srl)*
+*   **Role:** FPGA Engineer (Consultant)
+*   **Focus:** High-reliability RTL design for defense/aerospace applications.
+*   **Work:** High bandwidth video processing.
+    *   *Note: Specific project details are confidential.*
 
-<!--
-**alebal123bal/alebal123bal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Infineon Technologies**
+*   **Role:** R&D Intern
+*   **Work:** Developed automated circuit sizing algorithms using Bayesian Optimization. Reduced design evaluation time significantly using symbolic analysis and math-heavy optimization.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ♟️ Out of Office
+
+*   **Chess:** FIDE Rating **2000**. I play competitive tournaments. I like strategy.
+*   **K1 Kickboxing:** Disciplined training. I like impact.
+
+---
+
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/alessandro-balzan-b024a9250)
+
+<br>
+<small>
+<b>Disclaimer:</b> All projects and code on this repository are personal, open-source endeavors developed on personal time using commercially available hobbyist hardware. They are not affiliated with, endorsed by, or related to the proprietary technologies of my current employer or clients.
+</small>
