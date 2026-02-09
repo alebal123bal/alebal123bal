@@ -3,7 +3,7 @@
 
 **I bridge the gap between PyTorch and Verilog/VHDL.**
 
-Most engineers live in the . I live in the intersection of cloud and logic gates. I specialize in taking heavy computational problems (Computer Vision, AI, Optimization) and crushing them into constrained hardware with deterministic latency.
+I live in the intersection of cloud and logic gates. I specialize in taking heavy computational problems (Computer Vision, AI, Optimization) and crushing them into constrained hardware with deterministic latency.
 
 *   **Focus:** High-throughput data paths, RTL design, and hardware-aware AI.
 *   **Mindset:** If it takes more than a microsecond, it's too slow.
