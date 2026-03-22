@@ -14,7 +14,7 @@ I live in the intersection of cloud and logic gates. I specialize in taking heav
 
 ### 🛸 [Luckfox UAV Detection](https://github.com/alebal123bal/luckfox_UAV_detection)
 **The Viral One.** A zero-copy, hardware-accelerated pipeline on the Luckfox Pico.
-*   **Performance:** Achieved **20 FPS** on a tiny, $25 embedded Linux board.
+*   **Performance:** Achieved **30 FPS** on a tiny, $25 embedded Linux board.
 *   **Tech:** C++, RGA Hardware Acceleration, MAVLink.
 *   **Impact:** 19x speedup over OpenCV. Went viral on LinkedIn.
 
