@@ -12,6 +12,12 @@ I live in the intersection of cloud and logic gates. I specialize in taking heav
 
 ## ⚡ Featured Projects
 
+### 🛸 [Khadas YOLOv8n Multithread](https://github.com/alebal123bal/khadas_yolov8n_multithread)
+**The Lean Machine.** Real-time UAV detection pushed to the sensor's hardware ceiling.
+*   **Performance:** **YOLOv8n** at the sensor's **46 FPS** limit, in just **~140 MB** of RAM.
+*   **Tech:** C++, RK3588 NPU, multithreaded capture/inference/post-processing.
+*   **Impact:** Full-throughput, low-latency operation with overlapped pipeline stages.
+
 ### 🛸 [Luckfox UAV Detection](https://github.com/alebal123bal/luckfox_UAV_detection)
 **The Viral One.** A zero-copy, hardware-accelerated pipeline on the Luckfox Pico.
 *   **Performance:** Achieved **30 FPS** on a tiny, $25 embedded Linux board.
@@ -30,12 +36,22 @@ I live in the intersection of cloud and logic gates. I specialize in taking heav
 
 ---
 
+## 🔧 Open-Source Edge-AI Pipelines
+
+I open-source the full toolchains behind my edge deployments so others can reproduce them end-to-end:
+
+*   🎯 [**RKNN_TRAIN_YOLO**](https://github.com/alebal123bal/RKNN_TRAIN_YOLO) — Entire pipeline for training, converting, and exporting a **YOLO** model onto RockChip NPUs.
+*   💬 [**RKLLM_LLAMA_QWEN**](https://github.com/alebal123bal/RKLLM_LLAMA_QWEN) — Entire pipeline for running optimized **LLM**s on the RK3588S, on the NPU (RKLLM) or the CPU (llama).
+
+---
+
 ## 🛠 The Stack
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
 | **Hardware (RTL)** | VHDL, Verilog, SystemVerilog, Vivado, Gowin IDE |
 | **Software & AI** | Python (PyTorch, Numba), C/C++, Bash, Linux |
+| **Edge AI** | RKNN, RKLLM, YOLO, Qwen/LLaMA, NPU deployment |
 | **Interfaces** | AXI4, Avalon Stream, UART, I2C, SPI |
 | **Optimization** | Bayesian Optimization (BOTorch), Multi-objective Search |
 
