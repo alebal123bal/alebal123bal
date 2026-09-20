@@ -59,6 +59,12 @@ I open-source the full toolchains behind my edge deployments so others can repro
 
 ## 💼 Experience Highlights
 
+**Rheinmetall A.G.** *(via Brain Technologies srl)*
+*   **Role:** FPGA Engineer (Senior-level Consultant)
+*   **Focus:** High-reliability RTL design for defense/aerospace applications.
+*   **Work:** High bandwidth S-Band radar data streams.
+    *   *Note: Specific project details are confidential.*
+ 
 **Leonardo S.p.A** *(via Overtech Consulting srl)*
 *   **Role:** FPGA Engineer (Consultant)
 *   **Focus:** High-reliability RTL design for defense/aerospace applications.
